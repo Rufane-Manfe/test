@@ -1,0 +1,196 @@
+/*-------------------------------------------------------*/
+/* Grid
+/*-------------------------------------------------------*/
+.elementor-column-gap-default>.elementor-row>.elementor-column>.elementor-element-populated {
+	padding: 15px;
+}
+
+.elementor-column-gap-default .elementor-row {
+	width: calc(100% + 30px);
+	margin-left: -15px;
+	margin-right: -15px;
+}
+.elementor-column-gap-narrow .elementor-row {
+	width: calc(100% + 10px);
+	margin-left: -5px;
+	margin-right: -5px;
+}
+.elementor-column-gap-extended .elementor-row {
+	width: calc(100% + 30px);
+	margin-left: -15px;
+	margin-right: -15px;
+}
+.elementor-column-gap-wide .elementor-row {
+	width: calc(100% + 40px);
+	margin-left: -20px;
+	margin-right: -20px;
+}
+.elementor-column-gap-wider .elementor-row {
+	width: calc(100% + 60px);
+	margin-left: -30px;
+	margin-right: -30px;
+}
+
+.elementor-container.elementor-column-gap-default {
+	padding: 0 15px;
+}
+
+.elementor-element.row {
+	width: auto;
+}
+
+
+/*-------------------------------------------------------*/
+/* Headings line-height
+/*-------------------------------------------------------*/
+.elementor-widget-heading .elementor-heading-title {
+	line-height: 1.3;
+}
+
+
+/*-------------------------------------------------------*/
+/* Buttons
+/*-------------------------------------------------------*/
+.elementor-button {
+	-webkit-transition: all .2s;
+	-o-transition: all .2s;
+	transition: all .2s;
+}
+
+.elementor-widget-button .elementor-button {
+	background-color: #E12A21;
+	border-radius: 5px;
+	font-weight: 700;
+	line-height: 1.1;
+}
+
+.elementor-button.elementor-size-lg {
+	font-size: 1.125rem;
+	padding: 16px 30px;
+}
+
+.elementor-button.elementor-size-md {
+	font-size: 0.875rem;
+	padding: 12px 29px;
+}
+
+.elementor-button.elementor-size-sm {
+	font-size: 0.6875rem;
+	padding: 8px 20px;
+}
+
+
+/*-------------------------------------------------------*/
+/* Social Media Icons
+/*-------------------------------------------------------*/
+.elementor-social-icon {
+	padding: .75em .844em;
+	font-size: 16px;
+	margin-bottom: 6px;
+}
+
+.elementor-social-icon i {
+	display: inline-block;
+}
+
+.elementor-social-icon i:before {
+	top: 60%;
+	-webkit-transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+}
+
+/* Ckecks list icon */
+.elementor-icon-list-icon .fa-check:before {
+	font-family: "ui-icons";
+	content: '\f383';
+}
+
+
+/*-------------------------------------------------------*/
+/* Dividers
+/*-------------------------------------------------------*/
+.elementor-divider {
+	color: #e1e5e6;
+}
+
+
+/*-------------------------------------------------------*/
+/* Tabs
+/*-------------------------------------------------------*/
+.elementor-widget-tabs .elementor-tab-content,
+.elementor-widget-tabs .elementor-tab-title,
+.elementor-widget-tabs .elementor-tab-title:after,
+.elementor-widget-tabs .elementor-tab-title:before,
+.elementor-widget-tabs .elementor-tabs-content-wrapper {
+	border: 1px none #e1e5e6;
+}
+
+.elementor-widget-tabs .elementor-tab-title.elementor-active {
+	border-color: #e1e5e6;
+	border-top-width: 2px !important;
+	border-top: 2px solid #E12A21;
+}
+
+.elementor-widget-tabs .elementor-tab-title,
+.elementor-accordion .elementor-tab-title {
+	padding: 14px 18px;
+	font-weight: 600 !important;
+	font-size: 0.875rem !important;
+	line-height: 1 !important;
+	border: solid transparent;
+	color: #3A444D;
+	border-radius: 5px;
+}
+
+.elementor-widget-tabs .elementor-tab-content {
+	border-radius: 0 0 5px 5px;
+}
+
+@media (max-width: 767px) {
+	.elementor-tabs .elementor-tab-title {
+		border: 1px solid #e1e5e6;
+	}
+
+	.elementor-tabs .elementor-tab-content,
+	.elementor-tabs .elementor-tab-title {
+		border-style: solid;
+		border-bottom-style: none;
+	}
+
+	.elementor-tabs .elementor-tab-content:last-child {
+		border-style: solid;
+		border-top-style: none;
+	}
+
+	.elementor-tabs .elementor-tab-title:nth-last-child(2) {
+		border-style: solid;
+	}	
+}
+
+
+/*-------------------------------------------------------*/
+/* Accordions
+/*-------------------------------------------------------*/
+.elementor-accordion .elementor-accordion-item {
+	border: 1px solid #e1e5e6;
+	border-radius: 5px;
+}
+
+.elementor-accordion .elementor-tab-content {
+	border-top: 1px solid #e1e5e6;
+}
+
+.elementor-accordion-icon {
+	font-size: 10px;
+	position: relative;
+	top: 2px;
+}
+
+
+/*-------------------------------------------------------*/
+/* Alerts
+/*-------------------------------------------------------*/
+.elementor-alert {
+	border-radius: 5px;
+}

@@ -1,0 +1,135 @@
+// Variables
+$main-color: #0085ba;
+$border-color: #e2e4e7;
+
+
+/*-------------------------------------------------------*/
+/* Fields
+/*-------------------------------------------------------*/
+.deo-row {
+	border-bottom: 1px solid $border-color;
+
+	&:last-child {
+		border-bottom: 0;
+	}
+
+	.deo-field-th,
+	.deo-field-td {
+		padding-top: 24px;
+		padding-bottom: 24px;
+	}
+}
+
+.deo-label {
+	margin-bottom: 12px;
+}
+
+.deo-description {
+	display: block;
+	font-weight: 400;
+	font-size: 0.8125rem;
+	margin-top: 7px;
+	color: #858585;
+	line-height: 1.5;
+}
+
+
+/*-------------------------------------------------------*/
+/* Select
+/*-------------------------------------------------------*/
+.deo-layout-select-list {
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: -5px;
+	margin-right: -5px;
+}
+
+.deo-layout-select-item {
+	display: inline-block;
+	padding: 0 5px;
+}
+
+.deo-layout-select-input[type=radio] {
+	display: none;
+}
+
+.deo-layout-select-img {
+	border: 2px solid #d9d9d9;
+	width: auto;
+}
+
+.deo-layout-selected img,
+.deo-layout-select-input:checked + img {
+	border-color: $main-color;
+}
+
+
+/*-------------------------------------------------------*/
+/* Switch
+/*-------------------------------------------------------*/
+.deo-onoffswitch {
+	position: relative;
+	width: 70px;
+	user-select: none;
+}
+
+.deo-onoffswitch-checkbox {
+	display: none !important;
+}
+
+.deo-onoffswitch-label {
+	display: block;
+	overflow: hidden;
+	cursor: pointer;
+	height: 34px;
+	padding: 0;
+	line-height: 34px;
+	border-radius: 34px;
+	background-color: #b4b9be;
+	transition: background-color 0.1s ease-in;
+
+	&:before {
+		content: "";
+		display: block;
+		width: 24px;
+		height: 24px;
+		border-radius: 24px;
+		margin: 0px;
+		background: #FFFFFF;
+		position: absolute;
+		top: 5px;
+		bottom: 0;
+		right: 40px;    
+		transition: all 0.1s ease-in 0s;
+	}
+}
+
+.deo-onoffswitch-checkbox:checked + .deo-onoffswitch-label {
+	background-color: $main-color;
+}
+
+.deo-onoffswitch-checkbox:checked + .deo-onoffswitch-label:before {
+	right: 5px;
+}
+
+.deo-onoffswitch-inner:before,
+.deo-onoffswitch-inner:after {
+	display: block;
+	float: left;
+	width: 50%;
+	padding: 0;
+	font-size: 0.625rem;
+	color: #fff;
+	box-sizing: border-box;
+}
+
+.deo-onoffswitch-inner:before {
+	content: "ON";
+	padding-left: 10px;
+}
+
+.deo-onoffswitch-inner:after {
+	content: "OFF";
+	padding-right: 10px;
+	text-align: right;
+}

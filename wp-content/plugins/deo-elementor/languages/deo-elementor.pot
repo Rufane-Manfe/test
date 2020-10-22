@@ -1,0 +1,513 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Deo Elementor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-30 11:01+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: widgets/deo-widget-posts-list.php:468
+msgid "<i class=\"ui-arrow-left\"></i>"
+msgstr ""
+
+#: widgets/deo-widget-posts-list.php:469
+msgid "<i class=\"ui-arrow-right\"></i>"
+msgstr ""
+
+#. Description of the plugin
+msgid "Additional widgets for Neotech WordPress theme."
+msgstr ""
+
+#: widgets/deo-widget-posts-by-filter.php:602
+msgid "ALL"
+msgstr ""
+
+#: widgets/deo-widget-featured-slider.php:360
+#: widgets/deo-widget-masonry-post.php:456
+#: widgets/deo-widget-post-carousel.php:452
+#: widgets/deo-widget-posts-by-categories.php:536
+#: widgets/deo-widget-posts-by-filter.php:683
+#: widgets/deo-widget-posts-grid.php:604 widgets/deo-widget-posts-list.php:581
+#: widgets/deo-widget-reviews.php:473 widgets/deo-widget-tabs-post.php:380
+#: widgets/deo-widget-thumb-post.php:421 widgets/deo-widget-videos-grid.php:447
+msgid "All categories"
+msgstr ""
+
+#: widgets/deo-widget-posts-by-filter.php:115
+#: widgets/deo-widget-videos-playlist.php:136
+msgid "Block ID"
+msgstr ""
+
+#: widgets/deo-widget-post-carousel.php:89
+#: widgets/deo-widget-posts-by-filter.php:87
+#: widgets/deo-widget-posts-grid.php:91 widgets/deo-widget-posts-list.php:91
+#: widgets/deo-widget-videos-playlist.php:90
+msgid "Block Options"
+msgstr ""
+
+#: widgets/deo-widget-post-carousel.php:97
+#: widgets/deo-widget-posts-by-filter.php:95
+#: widgets/deo-widget-posts-grid.php:99 widgets/deo-widget-posts-list.php:99
+#: widgets/deo-widget-videos-playlist.php:98
+msgid "Block Title"
+msgstr ""
+
+#: widgets/deo-widget-featured-slider.php:96
+#: widgets/deo-widget-masonry-post.php:98
+#: widgets/deo-widget-post-carousel.php:123
+#: widgets/deo-widget-posts-by-categories.php:102
+#: widgets/deo-widget-posts-by-filter.php:143
+#: widgets/deo-widget-posts-grid.php:125 widgets/deo-widget-posts-list.php:125
+#: widgets/deo-widget-reviews.php:118 widgets/deo-widget-tabs-post.php:96
+#: widgets/deo-widget-thumb-post.php:116 widgets/deo-widget-videos-grid.php:116
+msgid "Category"
+msgstr ""
+
+#: widgets/deo-widget-videos-playlist.php:160
+msgid "Color"
+msgstr ""
+
+#: widgets/deo-widget-reviews.php:100 widgets/deo-widget-thumb-post.php:98
+msgid "Columns"
+msgstr ""
+
+#: widgets/deo-widget-featured-slider.php:123
+#: widgets/deo-widget-masonry-post.php:125
+#: widgets/deo-widget-post-carousel.php:150
+#: widgets/deo-widget-posts-by-categories.php:130
+#: widgets/deo-widget-posts-by-filter.php:171
+#: widgets/deo-widget-posts-grid.php:152 widgets/deo-widget-posts-list.php:152
+#: widgets/deo-widget-tabs-post.php:123 widgets/deo-widget-thumb-post.php:143
+#: widgets/deo-widget-videos-grid.php:143
+msgid "Comment count"
+msgstr ""
+
+#: widgets/deo-widget-posts-by-categories.php:230
+#: widgets/deo-widget-posts-grid.php:252 widgets/deo-widget-posts-list.php:262
+#: widgets/deo-widget-reviews.php:214
+msgid "Content"
+msgstr ""
+
+#: widgets/deo-widget-newsletter.php:87
+msgid "Content Options"
+msgstr ""
+
+#: widgets/deo-widget-featured-slider.php:120
+#: widgets/deo-widget-masonry-post.php:122
+#: widgets/deo-widget-post-carousel.php:147
+#: widgets/deo-widget-posts-by-categories.php:127
+#: widgets/deo-widget-posts-by-filter.php:168
+#: widgets/deo-widget-posts-grid.php:149 widgets/deo-widget-posts-list.php:149
+#: widgets/deo-widget-tabs-post.php:120 widgets/deo-widget-thumb-post.php:140
+#: widgets/deo-widget-videos-grid.php:140
+msgid "Date"
+msgstr ""
+
+#. Name of the plugin
+msgid "Deo Elementor"
+msgstr ""
+
+#: widgets/deo-widget-masonry-post.php:33
+msgid "Deo Masonry Posts"
+msgstr ""
+
+#: widgets/deo-widget-newsletter.php:33
+msgid "Deo Newsletter"
+msgstr ""
+
+#: widgets/deo-widget-featured-slider.php:33
+msgid "Deo Post Featured Slider"
+msgstr ""
+
+#: widgets/deo-widget-posts-by-categories.php:33
+msgid "Deo Posts By Categories"
+msgstr ""
+
+#: widgets/deo-widget-posts-by-filter.php:33
+msgid "Deo Posts By Filter"
+msgstr ""
+
+#: widgets/deo-widget-post-carousel.php:33
+msgid "Deo Posts Carousel"
+msgstr ""
+
+#: widgets/deo-widget-posts-grid.php:33
+msgid "Deo Posts Grid"
+msgstr ""
+
+#: widgets/deo-widget-posts-list.php:33
+msgid "Deo Posts List"
+msgstr ""
+
+#: widgets/deo-widget-reviews.php:33
+msgid "Deo Reviews"
+msgstr ""
+
+#: widgets/deo-widget-tabs-post.php:33
+msgid "Deo Tabs Post"
+msgstr ""
+
+#: widgets/deo-widget-thumb-post.php:33
+msgid "Deo Thumb Post"
+msgstr ""
+
+#: widgets/deo-widget-videos-grid.php:33
+msgid "Deo Video Grid"
+msgstr ""
+
+#: widgets/deo-widget-videos-playlist.php:36
+msgid "Deo Videos Playlist"
+msgstr ""
+
+#. Author of the plugin
+msgid "DeoThemes"
+msgstr ""
+
+#: widgets/deo-widget-posts-by-filter.php:108
+msgid "Enter categories be shown in the filter list."
+msgstr ""
+
+#: widgets/deo-widget-videos-playlist.php:126
+msgid "Enter each video url in a coma seprated. Supports: YouTube videos only."
+msgstr ""
+
+#: widgets/deo-widget-post-carousel.php:99
+#: widgets/deo-widget-posts-by-filter.php:97
+#: widgets/deo-widget-posts-grid.php:101 widgets/deo-widget-posts-list.php:101
+#: widgets/deo-widget-videos-playlist.php:100
+msgid "Enter section title (Note: you can leave it empty)."
+msgstr ""
+
+#: widgets/deo-widget-featured-slider.php:135
+#: widgets/deo-widget-masonry-post.php:137
+#: widgets/deo-widget-post-carousel.php:162
+#: widgets/deo-widget-posts-by-categories.php:142
+#: widgets/deo-widget-posts-by-filter.php:183
+#: widgets/deo-widget-posts-grid.php:164 widgets/deo-widget-posts-list.php:174
+#: widgets/deo-widget-tabs-post.php:135 widgets/deo-widget-thumb-post.php:155
+#: widgets/deo-widget-videos-grid.php:155
+msgid "ex.: 256, 54, 78"
+msgstr ""
+
+#: widgets/deo-widget-posts-by-filter.php:104
+msgid "Filter Items"
+msgstr ""
+
+#: widgets/deo-widget-reviews.php:90 widgets/deo-widget-tabs-post.php:86
+#: widgets/deo-widget-thumb-post.php:88
+msgid "Grid Options"
+msgstr ""
+
+#: widgets/deo-widget-featured-slider.php:214
+#: widgets/deo-widget-masonry-post.php:216
+#: widgets/deo-widget-post-carousel.php:252
+#: widgets/deo-widget-posts-by-categories.php:304
+#: widgets/deo-widget-posts-by-filter.php:240
+#: widgets/deo-widget-posts-grid.php:324 widgets/deo-widget-posts-list.php:334
+#: widgets/deo-widget-reviews.php:286 widgets/deo-widget-tabs-post.php:189
+#: widgets/deo-widget-thumb-post.php:234
+#: widgets/deo-widget-videos-playlist.php:188
+msgid "H1"
+msgstr ""
+
+#: widgets/deo-widget-featured-slider.php:215
+#: widgets/deo-widget-masonry-post.php:217
+#: widgets/deo-widget-post-carousel.php:253
+#: widgets/deo-widget-posts-by-categories.php:305
+#: widgets/deo-widget-posts-by-filter.php:241
+#: widgets/deo-widget-posts-grid.php:325 widgets/deo-widget-posts-list.php:335
+#: widgets/deo-widget-reviews.php:287 widgets/deo-widget-tabs-post.php:190
+#: widgets/deo-widget-thumb-post.php:235
+#: widgets/deo-widget-videos-playlist.php:189
+msgid "H2"
+msgstr ""
+
+#: widgets/deo-widget-featured-slider.php:216
+#: widgets/deo-widget-masonry-post.php:218
+#: widgets/deo-widget-post-carousel.php:254
+#: widgets/deo-widget-posts-by-categories.php:306
+#: widgets/deo-widget-posts-by-filter.php:242
+#: widgets/deo-widget-posts-grid.php:326 widgets/deo-widget-posts-list.php:336
+#: widgets/deo-widget-reviews.php:288 widgets/deo-widget-tabs-post.php:191
+#: widgets/deo-widget-thumb-post.php:236
+#: widgets/deo-widget-videos-playlist.php:190
+msgid "H3"
+msgstr ""
+
+#: widgets/deo-widget-featured-slider.php:217
+#: widgets/deo-widget-masonry-post.php:219
+#: widgets/deo-widget-post-carousel.php:255
+#: widgets/deo-widget-posts-by-categories.php:307
+#: widgets/deo-widget-posts-by-filter.php:243
+#: widgets/deo-widget-posts-grid.php:327 widgets/deo-widget-posts-list.php:337
+#: widgets/deo-widget-reviews.php:289 widgets/deo-widget-tabs-post.php:192
+#: widgets/deo-widget-thumb-post.php:237
+#: widgets/deo-widget-videos-playlist.php:191
+msgid "H4"
+msgstr ""
+
+#: widgets/deo-widget-featured-slider.php:218
+#: widgets/deo-widget-masonry-post.php:220
+#: widgets/deo-widget-post-carousel.php:256
+#: widgets/deo-widget-posts-by-categories.php:308
+#: widgets/deo-widget-posts-by-filter.php:244
+#: widgets/deo-widget-posts-grid.php:328 widgets/deo-widget-posts-list.php:338
+#: widgets/deo-widget-reviews.php:290 widgets/deo-widget-tabs-post.php:193
+#: widgets/deo-widget-thumb-post.php:238
+#: widgets/deo-widget-videos-playlist.php:192
+msgid "H5"
+msgstr ""
+
+#: widgets/deo-widget-featured-slider.php:219
+#: widgets/deo-widget-masonry-post.php:221
+#: widgets/deo-widget-post-carousel.php:257
+#: widgets/deo-widget-posts-by-categories.php:309
+#: widgets/deo-widget-posts-by-filter.php:245
+#: widgets/deo-widget-posts-grid.php:329 widgets/deo-widget-posts-list.php:339
+#: widgets/deo-widget-reviews.php:291 widgets/deo-widget-tabs-post.php:194
+#: widgets/deo-widget-thumb-post.php:239
+#: widgets/deo-widget-videos-playlist.php:193
+msgid "H6"
+msgstr ""
+
+#: widgets/deo-widget-featured-slider.php:162
+#: widgets/deo-widget-post-carousel.php:199
+#: widgets/deo-widget-posts-by-categories.php:169
+#: widgets/deo-widget-posts-by-categories.php:239
+#: widgets/deo-widget-posts-grid.php:191 widgets/deo-widget-posts-grid.php:261
+#: widgets/deo-widget-posts-list.php:201 widgets/deo-widget-posts-list.php:271
+#: widgets/deo-widget-reviews.php:153 widgets/deo-widget-reviews.php:223
+#: widgets/deo-widget-videos-grid.php:182
+msgid "Hide"
+msgstr ""
+
+#: widgets/deo-widget-posts-grid.php:236 widgets/deo-widget-posts-list.php:246
+#: widgets/deo-widget-videos-grid.php:227
+msgid "Hide Author"
+msgstr ""
+
+#: widgets/deo-widget-masonry-post.php:164
+#: widgets/deo-widget-post-carousel.php:189
+#: widgets/deo-widget-posts-by-categories.php:204
+#: widgets/deo-widget-posts-grid.php:226 widgets/deo-widget-posts-list.php:236
+#: widgets/deo-widget-reviews.php:188 widgets/deo-widget-tabs-post.php:219
+#: widgets/deo-widget-thumb-post.php:182 widgets/deo-widget-videos-grid.php:217
+msgid "Hide Category"
+msgstr ""
+
+#: widgets/deo-widget-posts-by-categories.php:214
+msgid "Hide Comments"
+msgstr ""
+
+#: widgets/deo-widget-posts-by-categories.php:194
+#: widgets/deo-widget-posts-grid.php:216 widgets/deo-widget-posts-list.php:226
+#: widgets/deo-widget-reviews.php:178 widgets/deo-widget-videos-grid.php:207
+msgid "Hide Date"
+msgstr ""
+
+#: widgets/deo-widget-reviews.php:198
+msgid "Hide Reviews"
+msgstr ""
+
+#: widgets/deo-widget-featured-slider.php:107
+#: widgets/deo-widget-masonry-post.php:109
+#: widgets/deo-widget-post-carousel.php:134
+#: widgets/deo-widget-posts-by-categories.php:114
+#: widgets/deo-widget-posts-by-filter.php:155
+#: widgets/deo-widget-posts-grid.php:136 widgets/deo-widget-posts-list.php:136
+#: widgets/deo-widget-reviews.php:129 widgets/deo-widget-tabs-post.php:107
+#: widgets/deo-widget-thumb-post.php:127
+msgid "How many posts?"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://deothemes.com/"
+msgstr ""
+
+#: widgets/deo-widget-featured-slider.php:153
+#: widgets/deo-widget-posts-by-categories.php:160
+#: widgets/deo-widget-posts-grid.php:182 widgets/deo-widget-posts-list.php:192
+#: widgets/deo-widget-reviews.php:144 widgets/deo-widget-videos-grid.php:173
+msgid "Image"
+msgstr ""
+
+#: widgets/deo-widget-posts-by-categories.php:250
+#: widgets/deo-widget-posts-grid.php:272 widgets/deo-widget-posts-list.php:282
+#: widgets/deo-widget-reviews.php:234
+msgid "Length (words)"
+msgstr ""
+
+#: widgets/deo-widget-posts-by-categories.php:251
+#: widgets/deo-widget-posts-grid.php:273 widgets/deo-widget-posts-list.php:283
+#: widgets/deo-widget-reviews.php:235
+msgid "Length of content (words)"
+msgstr ""
+
+#: widgets/deo-widget-masonry-post.php:155
+#: widgets/deo-widget-masonry-post.php:237
+#: widgets/deo-widget-post-carousel.php:180
+#: widgets/deo-widget-post-carousel.php:273
+#: widgets/deo-widget-posts-by-categories.php:185
+#: widgets/deo-widget-posts-by-categories.php:325
+#: widgets/deo-widget-posts-grid.php:207 widgets/deo-widget-posts-grid.php:345
+#: widgets/deo-widget-posts-list.php:217 widgets/deo-widget-posts-list.php:355
+#: widgets/deo-widget-reviews.php:169 widgets/deo-widget-reviews.php:307
+#: widgets/deo-widget-tabs-post.php:210 widgets/deo-widget-thumb-post.php:173
+#: widgets/deo-widget-thumb-post.php:255 widgets/deo-widget-videos-grid.php:198
+#: widgets/deo-widget-videos-grid.php:284
+msgid "Meta"
+msgstr ""
+
+#: widgets/deo-widget-featured-slider.php:122
+#: widgets/deo-widget-masonry-post.php:124
+#: widgets/deo-widget-post-carousel.php:149
+#: widgets/deo-widget-posts-by-categories.php:129
+#: widgets/deo-widget-posts-by-filter.php:170
+#: widgets/deo-widget-posts-grid.php:151 widgets/deo-widget-posts-list.php:151
+#: widgets/deo-widget-tabs-post.php:122 widgets/deo-widget-thumb-post.php:142
+#: widgets/deo-widget-videos-grid.php:142
+msgid "Modified date"
+msgstr ""
+
+#: widgets/deo-widget-newsletter.php:103
+msgid "Newsletter Shortcode"
+msgstr ""
+
+#: widgets/deo-widget-featured-slider.php:117
+#: widgets/deo-widget-masonry-post.php:119
+#: widgets/deo-widget-post-carousel.php:144
+#: widgets/deo-widget-posts-by-categories.php:124
+#: widgets/deo-widget-posts-by-filter.php:165
+#: widgets/deo-widget-posts-grid.php:146 widgets/deo-widget-posts-list.php:146
+#: widgets/deo-widget-tabs-post.php:117 widgets/deo-widget-thumb-post.php:137
+#: widgets/deo-widget-videos-grid.php:137
+msgid "Order by"
+msgstr ""
+
+#: widgets/deo-widget-posts-list.php:162
+msgid "Pagination"
+msgstr ""
+
+#: widgets/deo-widget-newsletter.php:106
+#, php-format
+msgid ""
+"Paste newsletter shortcode here. You can edit your sign-up form in the %1$s "
+"MailChimp for WordPress form settings.%2$s"
+msgstr ""
+
+#: widgets/deo-widget-featured-slider.php:136
+#: widgets/deo-widget-masonry-post.php:138
+#: widgets/deo-widget-post-carousel.php:163
+#: widgets/deo-widget-posts-by-categories.php:143
+#: widgets/deo-widget-posts-by-filter.php:184
+#: widgets/deo-widget-posts-grid.php:165 widgets/deo-widget-posts-list.php:175
+#: widgets/deo-widget-tabs-post.php:136 widgets/deo-widget-thumb-post.php:156
+#: widgets/deo-widget-videos-grid.php:156
+msgid ""
+"Paste post ID's separated by commas. To find ID, click edit post and you'll "
+"find it in the browser address bar"
+msgstr ""
+
+#: widgets/deo-widget-featured-slider.php:106
+#: widgets/deo-widget-masonry-post.php:108
+#: widgets/deo-widget-post-carousel.php:133
+#: widgets/deo-widget-posts-by-categories.php:113
+#: widgets/deo-widget-posts-by-filter.php:154
+#: widgets/deo-widget-posts-grid.php:135 widgets/deo-widget-posts-list.php:135
+#: widgets/deo-widget-reviews.php:128 widgets/deo-widget-tabs-post.php:106
+#: widgets/deo-widget-thumb-post.php:126
+msgid "Posts"
+msgstr ""
+
+#: widgets/deo-widget-featured-slider.php:86
+#: widgets/deo-widget-masonry-post.php:88
+#: widgets/deo-widget-post-carousel.php:113
+#: widgets/deo-widget-posts-by-categories.php:92
+#: widgets/deo-widget-posts-by-filter.php:133
+#: widgets/deo-widget-posts-grid.php:115 widgets/deo-widget-posts-list.php:115
+#: widgets/deo-widget-videos-grid.php:88
+msgid "Posts Options"
+msgstr ""
+
+#: widgets/deo-widget-featured-slider.php:124
+#: widgets/deo-widget-masonry-post.php:126
+#: widgets/deo-widget-post-carousel.php:151
+#: widgets/deo-widget-posts-by-categories.php:131
+#: widgets/deo-widget-posts-by-filter.php:172
+#: widgets/deo-widget-posts-grid.php:153 widgets/deo-widget-posts-list.php:153
+#: widgets/deo-widget-tabs-post.php:124 widgets/deo-widget-thumb-post.php:144
+#: widgets/deo-widget-videos-grid.php:144
+msgid "Random"
+msgstr ""
+
+#: widgets/deo-widget-featured-slider.php:134
+#: widgets/deo-widget-masonry-post.php:136
+#: widgets/deo-widget-post-carousel.php:161
+#: widgets/deo-widget-posts-by-categories.php:141
+#: widgets/deo-widget-posts-by-filter.php:182
+#: widgets/deo-widget-posts-grid.php:163 widgets/deo-widget-posts-list.php:173
+#: widgets/deo-widget-tabs-post.php:134 widgets/deo-widget-thumb-post.php:154
+#: widgets/deo-widget-videos-grid.php:154
+msgid "Show specific posts by ID"
+msgstr ""
+
+#: widgets/deo-widget-posts-by-filter.php:488
+msgid "Sorry, Posts you requested could not be found.."
+msgstr ""
+
+#: widgets/deo-widget-newsletter.php:96
+msgid "Stay up to date"
+msgstr ""
+
+#: widgets/deo-widget-featured-slider.php:121
+#: widgets/deo-widget-featured-slider.php:178
+#: widgets/deo-widget-masonry-post.php:123
+#: widgets/deo-widget-masonry-post.php:180
+#: widgets/deo-widget-post-carousel.php:148
+#: widgets/deo-widget-post-carousel.php:215
+#: widgets/deo-widget-posts-by-categories.php:128
+#: widgets/deo-widget-posts-by-categories.php:266
+#: widgets/deo-widget-posts-by-filter.php:169
+#: widgets/deo-widget-posts-by-filter.php:201
+#: widgets/deo-widget-posts-grid.php:150 widgets/deo-widget-posts-grid.php:288
+#: widgets/deo-widget-posts-list.php:150 widgets/deo-widget-posts-list.php:298
+#: widgets/deo-widget-reviews.php:250 widgets/deo-widget-tabs-post.php:121
+#: widgets/deo-widget-tabs-post.php:153 widgets/deo-widget-thumb-post.php:141
+#: widgets/deo-widget-thumb-post.php:198 widgets/deo-widget-videos-grid.php:141
+#: widgets/deo-widget-videos-grid.php:243
+#: widgets/deo-widget-videos-playlist.php:152
+msgid "Title"
+msgstr ""
+
+#: widgets/deo-widget-featured-slider.php:211
+#: widgets/deo-widget-masonry-post.php:213
+#: widgets/deo-widget-post-carousel.php:249
+#: widgets/deo-widget-posts-by-categories.php:301
+#: widgets/deo-widget-posts-by-filter.php:237
+#: widgets/deo-widget-posts-grid.php:321 widgets/deo-widget-posts-list.php:331
+#: widgets/deo-widget-reviews.php:283 widgets/deo-widget-tabs-post.php:186
+#: widgets/deo-widget-thumb-post.php:231
+#: widgets/deo-widget-videos-playlist.php:185
+msgid "Title Heading Tag"
+msgstr ""
+
+#: widgets/deo-widget-videos-playlist.php:123
+msgid "Video Link"
+msgstr ""
+
+#: widgets/deo-widget-videos-playlist.php:114
+msgid "Videos Options"
+msgstr ""
+
+#: widgets/deo-widget-newsletter.php:94 widgets/deo-widget-newsletter.php:126
+msgid "Widget Title"
+msgstr ""
