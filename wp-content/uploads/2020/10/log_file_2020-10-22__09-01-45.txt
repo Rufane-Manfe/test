@@ -1,0 +1,67 @@
+
+---Downloaded files---
+The import files for: Demo Import 1 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/POLEDIGITALE/wordpress
+Data file = /Applications/XAMPP/xamppfiles/htdocs/POLEDIGITALE/wordpress/wp-content/themes/neotech/includes/demo-import/demo-content.xml
+Widget file = /Applications/XAMPP/xamppfiles/htdocs/POLEDIGITALE/wordpress/wp-content/themes/neotech/includes/demo-import/widgets.wie
+Customizer file = /Applications/XAMPP/xamppfiles/htdocs/POLEDIGITALE/wordpress/wp-content/themes/neotech/includes/demo-import/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Neotech Popular Posts - Popular Posts - Imported
+Mailchimp Sign-Up Form - Subscribe for Neotech news and receive daily updates - Imported
+Neotech Socials - No Title - Imported
+Neotech Latest Reviews - Latest Reviews - Imported
+
+Newsletter Popup : 
+
+Mailchimp Sign-Up Form - Subscribe for the new updates - Imported
+
+Footer Column 1 : 
+
+Neotech About - No Title - Imported
+
+Footer Column 2 : 
+
+Neotech Latest Tweets - Twitter Feed - Imported
+
+Footer Column 3 : 
+
+Navigation Menu - Useful Links - Imported
+
+Footer Column 4 : 
+
+Mailchimp Sign-Up Form - Newsletter - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
